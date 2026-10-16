@@ -1,0 +1,467 @@
+[
+  {
+    "id": 0,
+    "name": "HOA QUÊ",
+    "driveFolder": "hoa-que",
+    "subtitle": "gỏi bắp chuối tôm",
+    "story": "Hoa chuối, một loại hoa quen thuộc mà hầu như nơi nào trên nước Việt Nam đều có. Qua bàn tay khéo léo của các chị em đã trở thành món gỏi thật đặc sắc. Những bẹ hoa chuối xếp tỏa tròn, kết hợp cùng tôm, tai heo và rau thơm, tạo nên hương vị chua ngọt thanh mát. Hình ảnh những cánh hoa cùng hướng về một tâm điểm tượng trưng cho tinh thần đoàn kết, đồng lòng của chị em trong đơn vị. ",
+    "ingredients": [
+      "Bắp chuối",
+      "Tôm sú",
+      "Tai heo",
+      "Cà rốt",
+      "Hành tây",
+      "Đậu phộng rang",
+      "Hành phi",
+      "Rau răm",
+      "Húng quế",
+      "Hành tím",
+      "Ớt sừng",
+      "Tỏi",
+      "Chanh",
+      "Nước mắm",
+      "Đường",
+      "Giấm",
+      "Muối"
+    ],
+    "steps": [],
+    "nutrition": [
+      {
+        "title": "Bổ sung chất đạm, hỗ trợ duy trì cơ bắp",
+        "description": "Tôm và tai heo cung cấp chất đạm giúp duy trì khối cơ, hỗ trợ phục hồi cơ thể và tạo cảm giác no sau khi ăn."
+      },
+      {
+        "title": "Bổ sung chất xơ, tốt cho tiêu hóa",
+        "description": "Bắp chuối kết hợp với cà rốt và rau thơm cung cấp chất xơ, giúp hỗ trợ tiêu hóa, hạn chế táo bón và giúp no lâu hơn."
+      },
+      {
+        "title": "Bổ sung dưỡng chất tốt cho da",
+        "description": "Vitamin C từ chanh, beta-caroten từ cà rốt và vitamin E từ đậu phộng góp phần bảo vệ tế bào trước tác động của quá trình oxy hóa, hỗ trợ duy trì làn da khỏe mạnh."
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "label": "Năng lượng",
+        "value": "150 kcal"
+      },
+      {
+        "label": "Chất đạm",
+        "value": "10 g"
+      },
+      {
+        "label": "Tinh bột và đường",
+        "value": "9 g"
+      },
+      {
+        "label": "Chất béo",
+        "value": "8 g"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "HOA MẶT TRỜI",
+    "driveFolder": "hoa-mat-troi",
+    "subtitle": "sò điệp nướng sốt trứng muối",
+    "story": "Hoa mặt trời là một món ăn mang hương vị của biển, kết hợp cùng sốt trứng muối vàng óng, béo thơm đậm đà, tạo nên sự hòa quyện giữa vị ngọt của hải sản và vị béo mặn đặc trưng của trứng muối. được trình bày như đóa hướng dương rực rỡ, tượng trưng cho tinh thần lạc quan, luôn hướng về những điều tốt đẹp.",
+    "ingredients": [
+      "Sò điệp nguyên vỏ",
+      "Lòng đỏ trứng muối",
+      "Ớt sừng đỏ",
+      "Sốt phô mai trứng muối",
+      "Bơ",
+      "Nước chấm hải sản"
+    ],
+    "steps": [],
+    "nutrition": [
+      {
+        "title": "Bổ sung chất đạm, hỗ trợ duy trì cơ bắp",
+        "description": "Sò điệp cung cấp chất đạm chất lượng cao, giúp duy trì cơ bắp, hỗ trợ phục hồi cơ thể và tạo cảm giác no."
+      },
+      {
+        "title": "Cung cấp vitamin B12, hỗ trợ giảm mệt mỏi do thiếu hụt",
+        "description": "Sò điệp và lòng đỏ trứng muối cung cấp vitamin B12, cần thiết cho quá trình tạo hồng cầu và hoạt động bình thường của hệ thần kinh."
+      },
+      {
+        "title": "Bổ sung khoáng chất, hỗ trợ sức khỏe làn da",
+        "description": "Sò điệp chứa selen và kẽm, góp phần bảo vệ tế bào trước tác động của quá trình oxy hóa, hỗ trợ hệ miễn dịch và duy trì làn da khỏe mạnh."
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "label": "Năng lượng",
+        "value": "220–260 kcal"
+      },
+      {
+        "label": "Chất đạm",
+        "value": "12–15 g"
+      },
+      {
+        "label": "Tinh bột và đường",
+        "value": "6–10 g"
+      },
+      {
+        "label": "Chất béo",
+        "value": "16–20 g"
+      }
+    ],
+    "nutritionServing": "Dinh dưỡng ước tính trong 100g phần ăn được (không tính vỏ):"
+  },
+  {
+    "id": 2,
+    "name": "HOA VIỆT",
+    "driveFolder": "hoa-viet",
+    "subtitle": "tôm rang muối",
+    "story": "Hoa Việt được chế biến từ những con tôm tươi sống, rang cùng muối ớt và bột giòn, tạo nên hương vị đậm đà. Sắc đỏ của tôm nổi bật trên nền lá sen xanh, điểm xuyết hoa sen hồng ở giữa. Hoa sen tượng trưng cho vẻ đẹp thanh cao, giản dị nhưng kiên cường của người phụ nữ Việt Nam.",
+    "ingredients": [],
+    "steps": [],
+    "nutrition": [
+      {
+        "title": "Giàu chất đạm, hỗ trợ duy trì vóc dáng",
+        "description": "Tôm sú cung cấp lượng chất đạm cao, giúp duy trì cơ bắp, hỗ trợ phục hồi cơ thể và tạo cảm giác no lâu hơn."
+      },
+      {
+        "title": "Bổ sung chất chống oxy hóa, tốt cho làn da",
+        "description": "Ớt chuông đỏ, vàng, xanh chứa vitamin C và các chất chống oxy hóa, giúp bảo vệ tế bào và hỗ trợ quá trình tạo collagen tự nhiên của cơ thể."
+      },
+      {
+        "title": "Cung cấp khoáng chất, hỗ trợ sức khỏe",
+        "description": "Tôm sú chứa selen, kẽm và vitamin B12, góp phần hỗ trợ hệ miễn dịch, quá trình tạo hồng cầu và hoạt động bình thường của hệ thần kinh."
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "label": "Năng lượng",
+        "value": "160–190 kcal"
+      },
+      {
+        "label": "Chất đạm",
+        "value": "19–22 g"
+      },
+      {
+        "label": "Tinh bột và đường",
+        "value": "5–8 g"
+      },
+      {
+        "label": "Chất béo",
+        "value": "7–9 g"
+      }
+    ],
+    "nutritionServing": "Dinh dưỡng ước tính trong 100g phần ăn được (không tính vỏ):"
+  },
+  {
+    "id": 3,
+    "name": "GẮN KẾT ĐỒNG ĐỘI",
+    "driveFolder": "gan-ket-dong-doi",
+    "subtitle": "Đuôi bò hầm bí đỏ",
+    "story": "Món hầm được chế biến từ đuôi bò hầm cùng củ, hạt sen, táo đỏ, kỷ tử,… tất cả được đựng trong quả bí đỏ. Điểm đặc biệt của món ăn chính là quả bí đỏ được giữ nguyên hình dáng, trang trí khéo léo và sử dụng làm chiếc thố đựng món hầm. Hình ảnh quả bí tròn đầy tượng trưng cho sự đoàn kết, sum họp, luôn đong đầy yêu thương.",
+    "ingredients": [],
+    "steps": [],
+    "nutrition": [
+      {
+        "title": "Bổ sung collagen, hỗ trợ sức khỏe xương khớp",
+        "description": "Đuôi bò chứa nhiều mô liên kết và collagen. Khi được hầm mềm, collagen chuyển thành gelatin, cung cấp các axit amin tham gia vào quá trình duy trì và tái tạo mô của cơ thể."
+      },
+      {
+        "title": "Giàu chất xơ, hỗ trợ tiêu hóa và no lâu",
+        "description": "Bí đỏ, củ sen, hạt sen và nấm đông cô bổ sung chất xơ, giúp hỗ trợ hoạt động đường ruột và tạo cảm giác no lâu hơn sau bữa ăn."
+      },
+      {
+        "title": "Bổ sung vitamin và chất chống oxy hóa, tốt cho da",
+        "description": "Bí đỏ và cà rốt chứa beta-caroten, được cơ thể chuyển hóa thành vitamin A, giúp duy trì làn da và thị lực khỏe mạnh. Táo đỏ và kỷ tử cũng bổ sung các hợp chất chống oxy hóa có lợi cho cơ thể."
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "label": "Năng lượng",
+        "value": "130–160 kcal"
+      },
+      {
+        "label": "Chất đạm",
+        "value": "9–12 g"
+      },
+      {
+        "label": "Tinh bột và đường",
+        "value": "9–12 g"
+      },
+      {
+        "label": "Chất béo",
+        "value": "6–9 g"
+      }
+    ],
+    "nutritionServing": "Dinh dưỡng ước tính trong 100g phần ăn được (không tính xương):"
+  },
+  {
+    "id": 4,
+    "name": "HẠT NGỌC TRỜI",
+    "driveFolder": "hat-ngoc-troi",
+    "subtitle": "Cơm trắng",
+    "story": "Cơm trắng là món ăn không thể thiếu trong bữa cơm gia đình người Việt. Chi hội 2 mang đến Hội thi nồi cơm niêu truyền thống được nấu từ loại gạo thơm. Các chị em đã khéo léo giữ lửa vừa đủ để tạo phần cơm cháy giòn, ngon tựa như những hạt ngọc trời.",
+    "ingredients": [
+      "Gạo thơm"
+    ],
+    "steps": [],
+    "nutrition": [
+      "Cơm trắng là nguồn tinh bột giúp cung cấp năng lượng cho các hoạt động hằng ngày, từ làm việc, vận động đến sinh hoạt. Cơm trắng nấu chín mềm thường dễ tiêu hóa, ít chất béo và phù hợp để kết hợp với thịt, cá, rau củ, giúp tạo nên bữa ăn cân đối dinh dưỡng."
+    ],
+    "nutritionFacts": [
+      {
+        "label": "Năng lượng",
+        "value": "130 kcal"
+      },
+      {
+        "label": "Chất đạm",
+        "value": "2,7 g"
+      },
+      {
+        "label": "Tinh bột và đường",
+        "value": "28 g"
+      },
+      {
+        "label": "Chất béo",
+        "value": "0,3 g"
+      }
+    ],
+    "nutritionServing": "Dinh dưỡng ước tính trong 100g cơm chín:"
+  },
+  {
+    "id": 5,
+    "name": "SUM VẦY",
+    "driveFolder": "sum-vay",
+    "subtitle": "mực xào măng tây, ớt chuông",
+    "story": "Món ăn là sự kết hợp màu xanh của măng tây với sắc đỏ, vàng của ớt chuông, xào cùng mực tươi tạo nên một món ăn vừa giàu dinh dưỡng, vừa bắt mắt. Món ăn gửi gắm hình ảnh quây quần, sum vầy bên gia đình khi trở về mái ấm, nơi các chị luôn “đảm việc nhà”, giữ lửa yêu thương nơi hậu phương.",
+    "ingredients": [
+      "Mực",
+      "Măng tây",
+      "Ớt chuông",
+      "Hành tây",
+      "Tỏi",
+      "Dầu hào",
+      "Nước tương",
+      "Hạt nêm",
+      "Đường",
+      "Tiêu",
+      "Dầu ăn",
+      "Dầu mè"
+    ],
+    "steps": [],
+    "nutrition": [
+      {
+        "title": "Bổ sung chất đạm, hỗ trợ duy trì vóc dáng",
+        "description": "Mực cung cấp chất đạm với lượng chất béo tương đối thấp, giúp duy trì cơ bắp và tạo cảm giác no sau khi ăn."
+      },
+      {
+        "title": "Giàu vitamin C, hỗ trợ làn da khỏe mạnh",
+        "description": "Ớt chuông đỏ và vàng chứa nhiều vitamin C, cần thiết cho quá trình tạo collagen tự nhiên, đồng thời giúp bảo vệ tế bào trước tác động của quá trình oxy hóa."
+      },
+      {
+        "title": "Bổ sung chất xơ, hỗ trợ tiêu hóa",
+        "description": "Măng tây, ớt chuông và hành tây cung cấp chất xơ, giúp đường ruột hoạt động tốt hơn. Măng tây còn chứa folate, một dưỡng chất quan trọng cho quá trình tạo tế bào."
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "label": "Năng lượng",
+        "value": "90–120 kcal"
+      },
+      {
+        "label": "Chất đạm",
+        "value": "9–12 g"
+      },
+      {
+        "label": "Tinh bột và đường",
+        "value": "5–7 g"
+      },
+      {
+        "label": "Chất béo",
+        "value": "3–5 g"
+      }
+    ],
+    "nutritionServing": "Dinh dưỡng ước tính trong 100g:"
+  },
+  {
+    "id": 6,
+    "name": "ĐẬM ĐÀ TÌNH THÂN",
+    "driveFolder": "dam-da-tinh-than",
+    "subtitle": "Cá Lăng, Thịt Ba Chỉ Kho Tộ",
+    "story": "Món kho tộ đặc biệt mang đậm hương vị dân dã, truyền thống, gợi cảm giác ấm áp, hạnh phúc của gia đình. Đĩa rau luộc dùng kèm không chỉ mang đến màu xanh tươi mát mà còn cung cấp chất xơ và vitamin. Khi kết hợp với cá kho tộ giàu chất đạm, món ăn tạo nên sự hài hòa về hương vị và dinh dưỡng trong bữa cơm gia đình.",
+    "ingredients": [
+      "Cá lăng",
+      "Thịt ba chỉ",
+      "Rau rừng các loại",
+      "Bông cải xanh",
+      "Bông cải trắng",
+      "Cà rốt",
+      "Đậu bắp",
+      "Khổ qua rừng",
+      "Nước dừa tươi",
+      "Hành tím",
+      "Tỏi",
+      "Ớt",
+      "Hành lá",
+      "Tiêu",
+      "Nước mắm",
+      "Đường",
+      "Nước màu",
+      "Hạt nêm",
+      "Muối",
+      "Dầu ăn"
+    ],
+    "steps": [],
+    "nutrition": [
+      {
+        "title": "Bổ sung chất đạm, duy trì cơ bắp khỏe mạnh",
+        "description": "Cá lăng và thịt ba chỉ cung cấp chất đạm, giúp cơ thể duy trì cơ bắp, phục hồi mô và hỗ trợ các hoạt động hằng ngày."
+      },
+      {
+        "title": "Bổ sung vitamin và chất chống oxy hóa, tốt cho da",
+        "description": "Bông cải xanh, cà rốt và các loại rau luộc cung cấp vitamin C, beta-caroten cùng các hợp chất chống oxy hóa, góp phần duy trì làn da và hệ miễn dịch khỏe mạnh."
+      },
+      {
+        "title": "Hỗ trợ tiêu hóa, giúp bữa ăn cân bằng hơn",
+        "description": "Rau luộc bổ sung chất xơ, giúp hỗ trợ nhu động ruột và tạo cảm giác no. Ăn rau cùng cá và thịt cũng giúp tăng sự đa dạng dưỡng chất trong bữa ăn."
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "label": "Năng lượng",
+        "value": "150–190 kcal"
+      },
+      {
+        "label": "Chất đạm",
+        "value": "11–14 g"
+      },
+      {
+        "label": "Tinh bột và đường",
+        "value": "4–7 g"
+      },
+      {
+        "label": "Chất béo",
+        "value": "10–14 g"
+      }
+    ],
+    "nutritionServing": "Dinh dưỡng ước tính trong 100g (gồm cá, thịt và rau luộc):"
+  },
+  {
+    "id": 7,
+    "name": "TRỌN VỊ YÊU THƯƠNG",
+    "driveFolder": "tron-vi-yeu-thuong",
+    "subtitle": "Lẩu riêu cua",
+    "story": "Nồi lẩu mang điểm nhấn ấm áp của bàn tiệc. Món ăn kết hợp vị ngọt thanh của cua đồng, hương vị đậm đà của hải sản cùng các loại rau xanh tươi mát, tạo nên một nồi lẩu thơm ngon, tròn vị. Hình ảnh nồi lẩu đầy đặn tượng trưng cho tình đồng chí, đồng đội ấm áp, luôn đoàn kết, yêu thương, giúp đỡ nhau vượt qua khó khăn và cùng hoàn thành tốt mọi nhiệm vụ được giao. Đây cũng là hình ảnh gia đình đủ đầy, hạnh phúc, gửi gắm ý nghĩa “Trọn vị yêu thương” – trọn hương vị, trọn tình, trọn nghĩa.",
+    "ingredients": [
+      "Cua đồng xay",
+      "Tôm sú",
+      "Mực",
+      "Nghêu",
+      "Thịt bò",
+      "Chả cá hoặc cá viên",
+      "Đậu hũ",
+      "Trứng gà",
+      "Cà chua",
+      "Bún tươi",
+      "Hành tím",
+      "Hành lá",
+      "Tỏi",
+      "Ớt",
+      "Mắm tôm",
+      "Nước mắm",
+      "Hạt nêm",
+      "Đường",
+      "Muối",
+      "Dầu ăn"
+    ],
+    "steps": [],
+    "nutrition": [
+      {
+        "title": "Đa dạng nguồn chất đạm, hỗ trợ duy trì cơ bắp",
+        "description": "Cua đồng, tôm, mực, nghêu, thịt bò và đậu hũ cung cấp nhiều nguồn chất đạm khác nhau, giúp duy trì cơ bắp và hỗ trợ quá trình phục hồi cơ thể."
+      },
+      {
+        "title": "Bổ sung sắt, kẽm và vitamin B12",
+        "description": "Thịt bò, cua và các loại hải sản cung cấp những dưỡng chất quan trọng cho quá trình tạo hồng cầu, hoạt động của hệ miễn dịch và hệ thần kinh."
+      },
+      {
+        "title": "Bổ sung chất chống oxy hóa, hỗ trợ sức khỏe làn da",
+        "description": "Cà chua chứa lycopene và vitamin C, góp phần bảo vệ tế bào trước tác động của quá trình oxy hóa. Đậu hũ còn bổ sung chất đạm thực vật và một số khoáng chất."
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "label": "Năng lượng",
+        "value": "80–110 kcal"
+      },
+      {
+        "label": "Chất đạm",
+        "value": "7–10 g"
+      },
+      {
+        "label": "Tinh bột và đường",
+        "value": "3–5 g"
+      },
+      {
+        "label": "Chất béo",
+        "value": "4–6 g"
+      }
+    ],
+    "nutritionServing": "Dinh dưỡng ước tính trong 100g (gồm nước lẩu và các nguyên liệu ăn kèm, không tính bún):"
+  },
+  {
+    "id": 8,
+    "name": "Yaourt trái cây",
+    "driveFolder": "yaourt-trai-cay",
+    "subtitle": "Yaourt với trái cây tươi",
+    "story": "Món tráng miệng là một ly yaourt trái cây mát lạnh, bổ dưỡng, mang lại cảm giác thanh mát và thơm ngon. Món ăn được làm từ yaourt nguyên chất kết hợp với các loại trái cây tươi, tạo nên một món ăn vừa ngon miệng, vừa tốt cho sức khỏe.",
+    "ingredients": [
+      "Yaourt",
+      "Dâu tây",
+      "Nho sữa",
+      "Xoài chín",
+      "Việt quất",
+      "Lá húng quế"
+    ],
+    "steps": [],
+    "nutrition": [
+      {
+        "title": "Hỗ trợ tiêu hóa, chăm sóc đường ruột",
+        "description": "Sữa chua có chứa lợi khuẩn sống giúp hỗ trợ cân bằng hệ vi sinh đường ruột. Kết hợp với chất xơ từ trái cây, món ăn góp phần hỗ trợ hoạt động tiêu hóa."
+      },
+      {
+        "title": "Bổ sung vitamin C, hỗ trợ làn da khỏe đẹp",
+        "description": "Dâu tây, xoài và việt quất cung cấp vitamin C cùng các chất chống oxy hóa, giúp bảo vệ tế bào và hỗ trợ quá trình tổng hợp collagen tự nhiên."
+      },
+      {
+        "title": "Bổ sung canxi, hỗ trợ xương chắc khỏe",
+        "description": "Sữa chua cung cấp canxi và chất đạm, góp phần duy trì sức khỏe xương và răng. Trái cây tươi còn bổ sung nước, vitamin và khoáng chất cho cơ thể."
+      }
+    ],
+    "nutritionFacts": [
+      {
+        "label": "Năng lượng",
+        "value": "85–110 kcal"
+      },
+      {
+        "label": "Chất đạm",
+        "value": "2–4 g"
+      },
+      {
+        "label": "Tinh bột và đường",
+        "value": "15–20 g"
+      },
+      {
+        "label": "Chất béo",
+        "value": "1–3 g"
+      }
+    ],
+    "nutritionServing": "Dinh dưỡng ước tính trong 100g (sữa chua có đường kết hợp trái cây tươi):"
+  },
+  {
+    "id": 9,
+    "name": "Trà thảo mộc hạt sen",
+    "driveFolder": "tra-thao-moc-hat-sen",
+    "subtitle": "Trà thảo mộc với hạt sen",
+    "story": "Quý thực khách sẽ được thưởng thức món trà kết hợp từ đông trùng hạ thảo, hạt sen, táo đỏ và kỷ tử; Thức uống có vị ngọt thanh tự nhiên, giúp thanh lọc cơ thể, mang lại cảm giác thư giãn sau bữa ăn.",
+    "ingredients": [],
+    "steps": [],
+    "nutrition": []
+  }
+]
