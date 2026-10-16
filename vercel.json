@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/drive/:path*",
+      "destination": "https://bep-nha-i12v.onrender.com/api/drive/:path*"
+    }
+  ]
+}
