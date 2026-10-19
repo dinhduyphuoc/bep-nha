@@ -3,7 +3,7 @@
     "id": 0,
     "name": "HOA QUÊ",
     "driveFolder": "hoa-que",
-    "subtitle": "gỏi bắp chuối tôm",
+    "subtitle": "gỏi hoa chuối",
     "story": "Hoa chuối, một loại hoa quen thuộc mà hầu như nơi nào trên nước Việt Nam đều có. Qua bàn tay khéo léo của các chị em đã trở thành món gỏi thật đặc sắc. Những bẹ hoa chuối xếp tỏa tròn, kết hợp cùng tôm, tai heo và rau thơm, tạo nên hương vị chua ngọt thanh mát. Hình ảnh những cánh hoa cùng hướng về một tâm điểm tượng trưng cho tinh thần đoàn kết, đồng lòng của chị em trong đơn vị. ",
     "ingredients": [
       "Bắp chuối",
@@ -113,7 +113,17 @@
     "driveFolder": "hoa-viet",
     "subtitle": "tôm rang muối",
     "story": "Hoa Việt được chế biến từ những con tôm tươi sống, rang cùng muối ớt và bột giòn, tạo nên hương vị đậm đà. Sắc đỏ của tôm nổi bật trên nền lá sen xanh, điểm xuyết hoa sen hồng ở giữa. Hoa sen tượng trưng cho vẻ đẹp thanh cao, giản dị nhưng kiên cường của người phụ nữ Việt Nam.",
-    "ingredients": [],
+    "ingredients": [
+      "Tôm sú",
+      "Ớt chuông đỏ, vàng, xanh",
+      "Tỏi",
+      "Hành tím",
+      "Đường",
+      "Hạt nêm",
+      "Tiêu",
+      "Dầu ăn",
+      "Nước chấm hải sản"
+    ],
     "steps": [],
     "nutrition": [
       {
@@ -155,7 +165,25 @@
     "driveFolder": "gan-ket-dong-doi",
     "subtitle": "Đuôi bò hầm bí đỏ",
     "story": "Món hầm được chế biến từ đuôi bò hầm cùng củ, hạt sen, táo đỏ, kỷ tử,… tất cả được đựng trong quả bí đỏ. Điểm đặc biệt của món ăn chính là quả bí đỏ được giữ nguyên hình dáng, trang trí khéo léo và sử dụng làm chiếc thố đựng món hầm. Hình ảnh quả bí tròn đầy tượng trưng cho sự đoàn kết, sum họp, luôn đong đầy yêu thương.",
-    "ingredients": [],
+    "ingredients": [
+      "Đuôi bò",
+      "Bí đỏ",
+      "Củ sen",
+      "Táo đỏ",
+      "Kỷ tử",
+      "Hạt sen",
+      "Nấm đông cô",
+      "Cà rốt",
+      "Gừng",
+      "Hành tím",
+      "Hành tây",
+      "Hành lá",
+      "Ngò rí",
+      "Muối",
+      "Hạt nêm",
+      "Đường phèn",
+      "Tiêu"
+    ],
     "steps": [],
     "nutrition": [
       {
@@ -195,7 +223,7 @@
     "id": 4,
     "name": "HẠT NGỌC TRỜI",
     "driveFolder": "hat-ngoc-troi",
-    "subtitle": "Cơm trắng",
+    "subtitle": "Cơm niêu",
     "story": "Cơm trắng là món ăn không thể thiếu trong bữa cơm gia đình người Việt. Chi hội 2 mang đến Hội thi nồi cơm niêu truyền thống được nấu từ loại gạo thơm. Các chị em đã khéo léo giữ lửa vừa đủ để tạo phần cơm cháy giòn, ngon tựa như những hạt ngọc trời.",
     "ingredients": [
       "Gạo thơm"
@@ -283,7 +311,7 @@
     "id": 6,
     "name": "ĐẬM ĐÀ TÌNH THÂN",
     "driveFolder": "dam-da-tinh-than",
-    "subtitle": "Cá Lăng, Thịt Ba Chỉ Kho Tộ",
+    "subtitle": "Cá lăng kho tộ",
     "story": "Món kho tộ đặc biệt mang đậm hương vị dân dã, truyền thống, gợi cảm giác ấm áp, hạnh phúc của gia đình. Đĩa rau luộc dùng kèm không chỉ mang đến màu xanh tươi mát mà còn cung cấp chất xơ và vitamin. Khi kết hợp với cá kho tộ giàu chất đạm, món ăn tạo nên sự hài hòa về hương vị và dinh dưỡng trong bữa cơm gia đình.",
     "ingredients": [
       "Cá lăng",
@@ -456,9 +484,9 @@
   },
   {
     "id": 9,
-    "name": "Trà thảo mộc hạt sen",
+    "name": "Trà thảo mộc",
     "driveFolder": "tra-thao-moc-hat-sen",
-    "subtitle": "Trà thảo mộc với hạt sen",
+    "subtitle": "Trà thảo mộc thiên nhiên",
     "story": "Quý thực khách sẽ được thưởng thức món trà kết hợp từ đông trùng hạ thảo, hạt sen, táo đỏ và kỷ tử; Thức uống có vị ngọt thanh tự nhiên, giúp thanh lọc cơ thể, mang lại cảm giác thư giãn sau bữa ăn.",
     "ingredients": [],
     "steps": [],
